@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1052534044889",
+    "project_id": "snt-sulama",
+    "storage_bucket": "snt-sulama.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052534044889:android:56259c491daae5413d26c8",
+        "android_client_info": {
+          "package_name": "com.ornek.snt_sulama"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB49VLhkIidtc-38ziMLctzlDEmcJ-kVz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
